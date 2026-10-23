@@ -4,8 +4,8 @@ This is a modified version of the Space SHMUP project from Chapter 31 of
 "Introduction to Game Design, Prototyping, and Development." (3e) by Jeremy Gibson Bond.
 
 ## Play
-Play online now via [GitHub Pages](https://andrea-klost.github.io/Space-Shmup/),
-or download a build from the [releases](https://github.com/Andrea-Klost/Space-Shmup/releases)
+Play online now via [GitHub Pages](https://jess-klost.github.io/Space-Shmup/),
+or download a build from the [releases](https://github.com/Jess-Klost/Space-Shmup/releases)
 page.
 
 Note: If played via the GitHub Pages link, you may need to adjust your browser's zoom to see the
